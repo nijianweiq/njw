@@ -3,6 +3,7 @@
  */
 public class njw {
     public static void main(String[] args) {
-
+        System.out.println("sad");
+        System.out.println("saddsasad");
     }
 }
